@@ -1,0 +1,6 @@
+feature,coef
+const,-0.272
+binge_flag,-0.531
+late_night,-0.073
+episodes_watched,0.173
+session_minutes,0.0

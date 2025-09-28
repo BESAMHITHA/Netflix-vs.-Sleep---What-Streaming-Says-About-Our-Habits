@@ -1,0 +1,4 @@
+content_type,avg_session_mins,binge_rate,late_night_rate,avg_sleep
+Documentary,147.65,0.51,0.38,5.92
+Movie,151.65,0.5,0.36,5.91
+Series,151.53,0.51,0.37,5.93
